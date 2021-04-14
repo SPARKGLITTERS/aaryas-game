@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAiRFV1d4ipOiJEVXV3iKk6IkRVdXeIqToiRFV1d4ipOiJEVXV3iKk6IkRVdXeIqToiRFV1d4ipOiJEVXV3iKk6IkRVdXeIqToiRFV1d4ipOiJEVXV3iKk6IkRVdXeIqToiRFV1d4ipOiJEVXV3iKk6IkRVdXeIqToiRFV1d4ipOg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "pI9:x`Skx62GLp^lhfMl": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQAAAAAAAAANADAAAJCZmQ0AMwAAkP2dMzMz3QCQ3d0zMzMAAJD9nTMzM90AkJmZDTAzAAAAAAANADMAAAAAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Aarya"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
